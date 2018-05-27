@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {"title": "Pay bills", "description": "You should pay bills", "priority": "High", "status": "In progress", "deadline": "Monday, 30 April, 2018"},
+    {"title": "Walk with dog", "description": "You should find the dog and walk with it", "priority": "Normal", "status": "Open", "deadline": "Monday, 30 April, 2018"},
+    {"title": "Hang out", "description": "You should hand out with friends", "priority": "Normal", "status": "Open", "deadline": "Someday"},
+    {"title": "Have fun", "description": "HAVE FUN!!", "priority": "Normal", "status": "Done", "deadline": "Monday, 30 April, 2018"},
+    {"title": "To-do list", "description": "You should finish to-do list", "priority": "High", "status": "In progress", "deadline": "Monday, 30 April, 2018"}
+  ],
+
+  "statuses": ["Open", "In progress", "Waiting", "Done"]
+}
